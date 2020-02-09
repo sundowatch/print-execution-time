@@ -1,0 +1,28 @@
+{
+  "name": "print-execution-time",
+  "version": "1.0.0",
+  "description": "Print execution time in simplest way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundowatch/print-execution-time.git"
+  },
+  "keywords": [
+    "print",
+    "execution",
+    "time",
+    "exec",
+    "debug",
+    "exec time",
+    "timer"
+  ],
+  "author": ["Ümit Tunç", "İbrahim Sanduvac"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sundowatch/print-execution-time/issues"
+  },
+  "homepage": "https://github.com/sundowatch/print-execution-time"
+}
